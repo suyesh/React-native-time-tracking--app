@@ -1,5 +1,15 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "React Time Tracking",
+    "icon": "./clock.png",
+    "version": "1.0.0",
+    "slug": "react-time-tracking",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.suyesh.reacttimetracking"
+    },
+    "android": {
+      "package": "com.suyesh.reacttimetracking"
+    }
   }
 }
